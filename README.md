@@ -1,6 +1,6 @@
 # Shelby C. Miller
 
-2024 Updated Resume Website
+2024 Updated Website
 
 ## Technologies
 1. Vite / Vue
